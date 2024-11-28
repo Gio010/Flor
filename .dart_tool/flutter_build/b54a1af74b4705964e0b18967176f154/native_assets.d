@@ -1,0 +1,1 @@
+ C:\\Users\\geova\\mi_flor\\.dart_tool\\flutter_build\\b54a1af74b4705964e0b18967176f154\\native_assets.yaml: 
